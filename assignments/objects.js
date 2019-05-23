@@ -18,31 +18,31 @@ const example = {
 }
 
 // Write your intern objects here:
-const example = {
+const mitzi = {
   "id": 1,
   "name": "Mitzi",
   "email": "mmelloy0@psu.edu",
   "gender": "F"
 }
-const example = {
+const kennan = {
   "id": 2,
   "name": "Kennan",
   "email": "kdiben1@tinypic.com",
   "gender": "M"
 }
-const example = {
+const keven = {
   "id": 3,
   "name": "Keven",
   "email": "kmummery2@wikimedia.org",
   "gender": "M"
 }
-const example = {
+const gannie = {
   "id": 4,
   "name": "Gannie",
   "email": "gmartinson3@illinois.edu",
   "gender": "M"
 }
-const example = {
+const antonietta = {
   "id": 5,
   "name": "Antonietta",
   "email": "adaine5@samsung.com",
